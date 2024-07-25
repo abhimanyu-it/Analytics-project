@@ -14,7 +14,7 @@ At end you have to **draw conclusions** on the insights gathered from the explor
 -Python -> numpy,pandas,seaborn and matplotlib
 
 ### Project Structure
-data -> Contains the dataset
-notebooks -> Jupyter notebooks for analysis
-presentation -> Case presentation slides
+data -> Contains the dataset<br>
+notebooks -> Jupyter notebooks for analysis<br>
+presentation -> Case presentation slides<br>
 
